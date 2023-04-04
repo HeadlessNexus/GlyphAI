@@ -135,6 +135,8 @@ A: Feel free to open an issue or submit a pull request if you have any suggestio
 
 
 ### Roadmap: 
+---
+---
 Open to suggestions from community, if people are really enjoying 
 
 ### Community: Share guidelines for users who want to contribute to the project, and provide 
