@@ -1,7 +1,3 @@
-# GlyphAI
-
-GlyphAI is an innovative conversation system that leverages AI and custom emoji-based modifiers to create engaging, dynamic, and unique interactions. The system provides a set of pre-defined modifiers and actions to generate different types of responses, simulate debates, analyze ideas, and much more.
-
 
 
 # How to Use
@@ -48,7 +44,21 @@ Refrence ONLY {
 ```
 
 
-## Examples
+
+## Normal Response
+### Instructions:
+```
+⬜.🔺.🔬.🔍.⬛
+```
+
+### Response:
+```
+⬜ Edible cutlery
+🔺 Good for reducing waste, but consider taste.
+🔬 Durability and shelf life?
+🔍 Would I enjoy eating my spoon?
+⬛ Biodegradable, flavored cutlery with extended shelf life.
+```
 
 ## Creative Chaos Mode
 ### Instructions:
@@ -80,6 +90,30 @@ Refrence ONLY {
 ```
 
 
+## Advanced Usage
+### Instructions:
+```
+⬜.🗣(10).🔺.🔬.🔍.⬛
+```
+
+### Response:
+```
+⬜ AI-driven language learning app
+🗣(Alice): The AI-driven language learning app seems like a great idea to help people learn languages more efficiently.
+🗣(Bob):   I agree, and it could also adapt to each individual's learning style and pace.
+🗣(Carol): However, it might be hard to compete with established language learning apps on the market.
+🗣(Alice): That's true, but focusing on a unique selling point like advanced AI personalization could help it stand out.
+🗣(Bob):   And by using cutting-edge natural language processing techniques, it could provide a more immersive learning experience.
+🗣(Carol): The app could also integrate with smart devices and voice assistants for a seamless learning experience.
+🗣(Alice): There might be privacy concerns with collecting user data to personalize the learning experience.
+🗣(Bob):   Addressing those concerns with transparent data policies and security measures could help mitigate those issues.
+🗣(Carol): Additionally, offering a free trial or a freemium model could help attract users and showcase the app's benefits.
+🔺 AI-driven language learning apps are popular, but focusing on advanced personalization and integration with smart devices could set it apart from competitors.
+🔬 It's important to address privacy concerns and ensure data security for users while providing personalized learning experiences.
+🔍 I wonder if the app could truly compete with well-established language learning apps, and if users would be willing to try something new.
+⬛ AI-driven language learning app with advanced personalization, seamless smart device integration, and a focus on data privacy and security.
+```
+
 # FAQ / Docs
 ## Q: What are the pre-defined modifiers and actions?
 
@@ -92,6 +126,16 @@ A: Yes, you can combine multiple modifiers to create unique and engaging respons
 ## Q: How can I contribute to this project?
 
 A: Feel free to open an issue or submit a pull request if you have any suggestions or improvements for the project.
+
+
+Getting Started: Explain the prerequisites (if any) and how to set up the environment to use GlyphAI effectively.
+
+Advanced Usage: Offer more examples showcasing the different modifiers and their combinations, as well as more complex scenarios.
+
+Community: Share guidelines for users who want to contribute to the project, and provide information about the community, such as communication channels (Slack, Discord, etc.), forums, or social media profiles.
+
+Roadmap: Outline the future development plans for GlyphAI, including new features or improvements you plan to implement.
+
 
 ### License
 MIT License
