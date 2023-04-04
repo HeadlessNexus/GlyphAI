@@ -132,15 +132,15 @@ A: Feel free to open an issue or submit a pull request if you have any suggestio
 
 
 
-
-
+---
 ### Roadmap: 
----
----
-Open to suggestions from community, if people are really enjoying 
 
+Open to suggestions from community, if people are really enjoying the project, I will sit down and make up more ideas for it.
+
+---
 ### Community: Share guidelines for users who want to contribute to the project, and provide 
+
 I am open to taking this in any direct, I created it with the intention of AI researchers using it in their papers to make it more accesible for humans reading the papers, so they could test out things like COT(chain of though) and RCI(Respond Critize Improve) and other future technics that may require much more complicated systems of communication to test in a low difficulty environment.
 
-### License
-MIT License
+### License : MIT License
+
