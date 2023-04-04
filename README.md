@@ -95,4 +95,3 @@ A: Feel free to open an issue or submit a pull request if you have any suggestio
 
 ### License
 MIT License
-](https://github.com/HeadlessNexus/GlyphAI/edit/main/README.md)
