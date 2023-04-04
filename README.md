@@ -37,7 +37,6 @@ Refrence ONLY {
 	⬛:  send edited revised new version of idea based on all generated feedback and discussion about orignal ⬜; no description ,just send updated/revised idea
 	📦: add last idea to 📦(Y)=arrayY; 
 	🛑: end current idea event string
-
 	
 	Rules, Must Follow {
 		if a Modifier is used, post emoji at top of response 
