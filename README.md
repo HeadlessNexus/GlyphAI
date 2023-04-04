@@ -1,6 +1,32 @@
 GlyphAI
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
+Alternatively, for H1 and H2, an underline-ish style:
 
+Alt-H1
+======
+
+Alt-H2
+------
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
 GlyphAI is an innovative conversation system that leverages AI and custom emoji-based modifiers to create engaging, dynamic, and unique interactions. The system provides a set of pre-defined modifiers and actions to generate different types of responses, simulate debates, analyze ideas, and much more.
 
 
