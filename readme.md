@@ -131,14 +131,14 @@ A: Yes, you can combine multiple modifiers to create unique and engaging respons
 A: Feel free to open an issue or submit a pull request if you have any suggestions or improvements for the project.
 
 
-Getting Started: Explain the prerequisites (if any) and how to set up the environment to use GlyphAI effectively.
 
-Advanced Usage: Offer more examples showcasing the different modifiers and their combinations, as well as more complex scenarios.
 
-Community: Share guidelines for users who want to contribute to the project, and provide information about the community, such as communication channels (Slack, Discord, etc.), forums, or social media profiles.
 
-Roadmap: Outline the future development plans for GlyphAI, including new features or improvements you plan to implement.
+### Roadmap: 
+Open to suggestions from community, if people are really enjoying 
 
+### Community: Share guidelines for users who want to contribute to the project, and provide 
+I am open to taking this in any direct, I created it with the intention of AI researchers using it in their papers to make it more accesible for humans reading the papers, so they could test out things like COT(chain of though) and RCI(Respond Critize Improve) and other future technics that may require much more complicated systems of communication to test in a low difficulty environment.
 
 ### License
 MIT License
