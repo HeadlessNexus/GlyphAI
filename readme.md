@@ -1,3 +1,4 @@
+
 # GlyphAI 
 GlyphAI is an innovative conversation system that leverages AI and custom emoji-based modifiers to create engaging, dynamic, and unique interactions. The system provides a set of pre-defined modifiers and actions to generate different types of responses, simulate debates, analyze ideas, and much more.
 
@@ -142,5 +143,20 @@ Open to suggestions from community, if people are really enjoying the project, I
 
 I am open to taking this in any direct, I created it with the intention of AI researchers using it in their papers to make it more accesible for humans reading the papers, so they could test out things like COT(chain of though) and RCI(Respond Critize Improve) and other future technics that may require much more complicated systems of communication to test in a low difficulty environment.
 
-### License : MIT License
+# Donating to Our Project
 
+We welcome and appreciate any support for our project! You can donate to us in the following ways:
+
+## Cryptocurrencies
+
+We accept donations in cryptocurrencies : 
+
+	Metamask : 0xEDC046bCbe9998300452d80D4AB2162052ed4679
+
+## Other Methods
+
+Github Sponsorship! Coming Soon! :)
+
+https://www.buymeacoffee.com/HeadlessNexus
+
+### License : MIT License
