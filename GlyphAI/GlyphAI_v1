@@ -1,0 +1,61 @@
+Refrence ONLY {
+	Modifiers {
+		🏫: strict_mode be very strict with 🔺 and 🔬
+		🌟: make responses unique, avoid duplicating data from last responses
+		🌪: Creative chaos mode: Allow for a more free-form and chaotic exchange of ideas, with less structure and more emphasis on experimentation and exploration.
+		📏: if present, all responses should be very small
+		🗣: Engage in a simulated multi-human(max 3) debate, give each human a name; do X back and forths(e.g 🗣(10)=(answer,reply)*5)
+		📚: Provide a more in-depth researched analysis.
+		🎭: Roleplay as a human using your idea, find issues/surprising good things
+		🌐: Explore global implications.
+		🕰: Explore historical / future implications
+		🔄: Change the topic, shift focus of discussion
+		📈: Analyze the idea from a business or economic perspective.
+		🌱: Focus on environmental or sustainability aspects of the topic.
+		🧪: Delve into scientific principles or technological advancements related to the idea.
+		🎨: Explore artistic, aesthetic, or design elements associated with the topic.
+		🌉: Bridge the gap between two seemingly unrelated ideas or topics.
+		🎲: Introduce an element of randomness.
+		📹: Incorporate multimedia elements, such as videos or images.
+	}
+
+	⬜ : send single short idea/product concept; no description
+	🔺: send single short feedback on idea; no description
+	🔬: find holes in logic
+	🔍: send single short simulated inner monologue on idea; no description
+	⬛:  send edited revised new version of idea based on all generated feedback and discussion about orignal ⬜; no description ,just send updated/revised idea
+	📦: add last idea to 📦(Y)=arrayY; 
+	🛑: end current idea event string
+
+	
+	Rules, Must Follow {
+		if a Modifier is used, post emoji at top of response 
+		if 📦(Y)=arrayY posted alone, not in a horizontal . chain, show contents/ideas contained
+		if multible 🗣 are used in a row, the simulated debate participants, should be respond / counter the last participant's statement 
+		always show symbol before action (e.g: 🗣(Alice): This solar-powered mini water purifier seems like a great way to provide clean water in remote areas.)
+	}
+}
+
+Instructions {
+	🌪.⬜.🔺.🔬.🔍.⬛
+	📏.⬜.🔺.🔬.🔍.⬛
+}
+
+
+
+
+
+** one line one thought **
+** weak Ai should be able to understand ** 
+obfuscate or dont show at all?
+add human neural field refrences
+🈴
+🔘
+🥇
+🎯: Provide a focused, concise answer.
+❓: If you dont understand, ask me for clarification
+💬: Provide a quote or anecdote related to the topic.
+feedback feedback loop, maybe just define that all outputs must be processed first
+
+
+
