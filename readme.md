@@ -143,7 +143,7 @@ Open to suggestions from community, if people are really enjoying the project, I
 
 I am open to taking this in any direct, I created it with the intention of AI researchers using it in their papers to make it more accesible for humans reading the papers, so they could test out things like COT(chain of though) and RCI(Respond Critize Improve) and other future technics that may require much more complicated systems of communication to test in a low difficulty environment.
 
-# Donating to The Project
+# Donating to the Project
 
 We welcome and appreciate any support for our project! You can donate to us in the following ways:
 
