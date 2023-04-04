@@ -88,12 +88,12 @@ A: Please refer to the Code section in this README for a list of pre-defined mod
 
 ## Q: Can I use multiple modifiers in a single instruction set?
 
-### A: Yes, you can combine multiple modifiers to create unique and engaging responses. Just follow the rules specified in the Code section.
+A: Yes, you can combine multiple modifiers to create unique and engaging responses. Just follow the rules specified in the Code section.
 
 ## Q: How can I contribute to this project?
 
-### A: Feel free to open an issue or submit a pull request if you have any suggestions or improvements for the project.
+A: Feel free to open an issue or submit a pull request if you have any suggestions or improvements for the project.
 
 ### License
-### MIT License
+MIT License
 ](https://github.com/HeadlessNexus/GlyphAI/edit/main/README.md)
