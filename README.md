@@ -1,4 +1,4 @@
-[# GlyphAI
+# GlyphAI
 
 GlyphAI is an innovative conversation system that leverages AI and custom emoji-based modifiers to create engaging, dynamic, and unique interactions. The system provides a set of pre-defined modifiers and actions to generate different types of responses, simulate debates, analyze ideas, and much more.
 
@@ -51,8 +51,8 @@ Refrence ONLY {
 
 ## Examples
 
-#Creative Chaos Mode
-## Instructions:
+##Creative Chaos Mode
+### Instructions:
 ```
 🌪.⬜.🔺.🔬.🔍.⬛
 ```
@@ -65,8 +65,8 @@ Refrence ONLY {
 🌪 ⬛ Kinetic energy-powered shoes with efficient energy storage.
 ```
 
-#Very Small Responses
-## Instructions:
+## Very Small Responses
+### Instructions:
 ```
 📏.⬜.🔺.🔬.🔍.⬛
 ```
