@@ -1,38 +1,12 @@
-GlyphAI
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# GlyphAI
 
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
 GlyphAI is an innovative conversation system that leverages AI and custom emoji-based modifiers to create engaging, dynamic, and unique interactions. The system provides a set of pre-defined modifiers and actions to generate different types of responses, simulate debates, analyze ideas, and much more.
 
 
 
-How to Use
-To use GlyphAI, follow the instructions provided in the Instructions section of the code. For example:
+# How to Use
+To use GlyphAI, 
+follow the instructions provided in the Instructions section of the code. For example:
 
 ```
 Refrence ONLY {
@@ -75,14 +49,14 @@ Refrence ONLY {
 ```
 
 
-Examples
+## Examples
 
 #Creative Chaos Mode
-Instructions:
+## Instructions:
 ```
 🌪.⬜.🔺.🔬.🔍.⬛
 ```
-Response:
+### Response:
 ```
 🌪 ⬜ Solar-powered shoes
 🌪 🔺 Interesting concept, but how would the shoes generate enough power?
@@ -92,12 +66,12 @@ Response:
 ```
 
 #Very Small Responses
-Instructions:
+## Instructions:
 ```
 📏.⬜.🔺.🔬.🔍.⬛
 ```
 
-Response:
+### Response:
 ```
 📏 ⬜ Edible cutlery
 📏 🔺 Good for reducing waste, but consider taste.
@@ -107,19 +81,18 @@ Response:
 ```
 
 
-FAQ / Docs
-Q: What are the pre-defined modifiers and actions?
+# FAQ / Docs
+## Q: What are the pre-defined modifiers and actions?
 
 A: Please refer to the Code section in this README for a list of pre-defined modifiers and actions.
 
-Q: Can I use multiple modifiers in a single instruction set?
+## Q: Can I use multiple modifiers in a single instruction set?
 
-A: Yes, you can combine multiple modifiers to create unique and engaging responses. Just follow the rules specified in the Code section.
+### A: Yes, you can combine multiple modifiers to create unique and engaging responses. Just follow the rules specified in the Code section.
 
-Q: How can I contribute to this project?
+## Q: How can I contribute to this project?
 
-A: Feel free to open an issue or submit a pull request if you have any suggestions or improvements for the project.
+### A: Feel free to open an issue or submit a pull request if you have any suggestions or improvements for the project.
 
-License
-
-MIT License
+### License
+### MIT License
