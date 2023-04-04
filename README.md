@@ -51,7 +51,7 @@ Refrence ONLY {
 
 ## Examples
 
-##Creative Chaos Mode
+## Creative Chaos Mode
 ### Instructions:
 ```
 🌪.⬜.🔺.🔬.🔍.⬛
