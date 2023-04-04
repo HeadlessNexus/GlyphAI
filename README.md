@@ -8,6 +8,7 @@ GlyphAI is an innovative conversation system that leverages AI and custom emoji-
 How to Use
 To use GlyphAI, follow the instructions provided in the Instructions section of the code. For example:
 
+```
 Refrence ONLY {
 	Modifiers {
 		🏫: strict_mode be very strict with 🔺 and 🔬
@@ -45,6 +46,8 @@ Refrence ONLY {
 		always show symbol before action (e.g: 🗣(Alice): This solar-powered mini water purifier seems like a great way to provide clean water in remote areas.)
 	}
 }
+```
+
 
 Examples
 
