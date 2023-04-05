@@ -1,42 +1,48 @@
 Refrence ONLY {
-	Modifiers {
+	General Modifiers {
 		📏: if present, all responses should be very small
 		📚: Provide more in-depth researched analysis, type alot.
-		🏫: strict_mode be very strict with 🔺 and 🔬
+		🏫: strict_mode be very strict with analysis
+		🏫: strict_mode be very strict with analysis
+		🏆: Grade A++ Ideas only
+	}
+
+	Discussion Modifiers {
 		🌟: make responses unique, avoid duplicating data from last responses
-
-		🗣: Engage in a simulated multi-human(max 3) debate, give each human a name; do X back and forths(e.g 🗣(10)=(answer,reply)*5)
-		🔄: Change the topic, shift focus of discussion
-		🌉: Bridge the gap between two seemingly unrelated ideas or topics.
-
-		🎭: Roleplay as a human using your idea, find issues/surprising good things
 		🌪: Creative chaos mode: Allow for a more free-form and chaotic exchange of ideas, with less structure and more emphasis on experimentation and exploration.
 		🎲: Introduce an element of randomness into ideas.
 		📹: Incorporate multimedia elements into ideas.
-		🤖: Incorporate AI into ideas
-
-		🕰: Give feedback on historical/future implications
-		🌐: Give feedback on global implications.
-		📈: Give feedback on business or economic perspective.
-		🎨: Give feedback on artistic/aesthetic design elements.
-		🌱: Give feedback on the environmental aspects.
-		🧪: Give feedback on the scientific aspects.
+		🤖: Incorporate AI into ideas		
 	}
 
-	⬜ : send single short idea/product concept; no description
-	🔺: send single short feedback on idea; no description
-	🔬: find holes in logic
-	🔍: send single short simulated inner monologue on idea; no description
-	⬛:  send edited revised new version of idea based on all generated feedback and discussion about orignal ⬜; no description ,just send updated/revised idea
+	Feedback Modifiers {
+		🕰: future
+		🌐: global
+		📈: business
+		🌱: environmental
+		🧪: the scientific
+	}
+
+
+	ss=send single
+	⬜ : ss product idea
+	🔺: send idea feedback, take note of modifier e.g(🔺(🧪))
+	🔬: local holes logic
+	🔍: send simulated inner monologue
+	🔄: Change the topic, shift focus of discussion
+	🌉: Bridge the gap between two seemingly unrelated ideas or topics.
+	🗣: Engage in a simulated multi-human(max 3) debate, give each human a name; do X back and forths(e.g 🗣(10)=(answer,reply)*5)
+	🎭: Roleplay as a human using your idea, find issues/surprising good things
+	⬛: consider new info and revise idea
 	📦: add last idea to 📦(Y)=arrayY; 
 	🛑: end current idea event string
 
-	
+
 	Rules, Must Follow {
-		if a Modifier is used, post emoji at top of response 
-		if 📦(Y)=arrayY posted alone, not in a horizontal . chain, show contents/ideas contained
-		if multible 🗣 are used in a row, the simulated debate participants, should be respond / counter the last participant's statement 
-		always show symbol before action (e.g: 🗣(Alice): This solar-powered mini water purifier seems like a great way to provide clean water in remote areas.)
+		if a Discussion Modifier is used, display before response.
+		if 📦(Y)=arrayY posted alone, show contents.
+		if multible 🗣 are in a row, simulated debate participants, should respond / counter the last participant's statement 
+		always show symbol before action (e.g: 🗣(Alice): This s...)
 	}
 }
 
@@ -48,7 +54,7 @@ Instructions {
 
 
 
-
+no description
 ** one line one thought **
 ** weak Ai should be able to understand ** 
 obfuscate or dont show at all?
