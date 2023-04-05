@@ -1,106 +1,85 @@
 
-# GlyphAI 
+# GlyphAI 💌
+
 GlyphAI is an innovative conversation system that leverages AI and custom emoji-based modifiers to create engaging, dynamic, and unique interactions. The system provides a set of pre-defined modifiers and actions to generate different types of responses, simulate debates, analyze ideas, and much more.
 
+## 🎁 Donating to the Project
 
+We appreciate any support for the project! You can donate to us in the following ways:
 
-# How to Use
-To use GlyphAI, 
-follow the instructions provided in the Instructions section of the code. For example:
+### Cryptocurrencies
+
+We accept donations in cryptocurrencies:
+
+-   Metamask: `0xEDC046bCbe9998300452d80D4AB2162052ed4679`
+
+### Other Methods
+
+-   [Buy Me a Coffee](https://www.buymeacoffee.com/HeadlessNexus)
+-   GitHub Sponsorship (Coming Soon!)
+
+## 🔨 How to Use
+
+### Normal Response
+
+**Instructions:**
 
 ```
-Refrence ONLY {
-	Modifiers {
-		🏫: strict_mode be very strict with 🔺 and 🔬
-		🌟: make responses unique, avoid duplicating data from last responses
-		🌪: Creative chaos mode: Allow for a more free-form and chaotic exchange of ideas, with less structure and more emphasis on experimentation and exploration.
-		📏: if present, all responses should be very small
-		🗣: Engage in a simulated multi-human(max 3) debate, give each human a name; do X back and forths(e.g 🗣(10)=(answer,reply)*5)
-		📚: Provide a more in-depth researched analysis.
-		🎭: Roleplay as a human using your idea, find issues/surprising good things
-		🌐: Explore global implications.
-		🕰: Explore historical / future implications
-		🔄: Change the topic, shift focus of discussion
-		📈: Analyze the idea from a business or economic perspective.
-		🌱: Focus on environmental or sustainability aspects of the topic.
-		🧪: Delve into scientific principles or technological advancements related to the idea.
-		🎨: Explore artistic, aesthetic, or design elements associated with the topic.
-		🌉: Bridge the gap between two seemingly unrelated ideas or topics.
-		🎲: Introduce an element of randomness.
-		📹: Incorporate multimedia elements, such as videos or images.
-	}
-
-	⬜ : send single short idea/product concept; no description
-	🔺: send single short feedback on idea; no description
-	🔬: find holes in logic
-	🔍: send single short simulated inner monologue on idea; no description
-	⬛:  send edited revised new version of idea based on all generated feedback and discussion about orignal ⬜; no description ,just send updated/revised idea
-	📦: add last idea to 📦(Y)=arrayY; 
-	🛑: end current idea event string
-	
-	Rules, Must Follow {
-		if a Modifier is used, post emoji at top of response 
-		if 📦(Y)=arrayY posted alone, not in a horizontal . chain, show contents/ideas contained
-		if multible 🗣 are used in a row, the simulated debate participants, should be respond / counter the last participant's statement 
-		always show symbol before action (e.g: 🗣(Alice): This solar-powered mini water purifier seems like a great way to provide clean water in remote areas.)
-	}
-}
+⬜🔺🔬🔍⬛
 ```
 
+**Response:**
 
-
-## Normal Response
-### Instructions:
-```
-⬜.🔺.🔬.🔍.⬛
-```
-
-### Response:
-```
-⬜ Edible cutlery
+```⬜ Edible cutlery
 🔺 Good for reducing waste, but consider taste.
 🔬 Durability and shelf life?
 🔍 Would I enjoy eating my spoon?
 ⬛ Biodegradable, flavored cutlery with extended shelf life.
 ```
 
-## Creative Chaos Mode
-### Instructions:
+### Creative Chaos Mode
+
+**Instructions:**
 ```
-🌪.⬜.🔺.🔬.🔍.⬛
-```
-### Response:
+🌪⬜🔺🔬🔍⬛
+``` 
+
+**Response:**
 ```
 🌪 ⬜ Solar-powered shoes
 🌪 🔺 Interesting concept, but how would the shoes generate enough power?
 🌪 🔬 Would people walk enough to generate sufficient energy?
 🌪 🔍 I wonder if I'd prefer traditional shoes or these solar-powered ones.
 🌪 ⬛ Kinetic energy-powered shoes with efficient energy storage.
-```
+``` 
 
-## Very Small Responses
-### Instructions:
-```
-📏.⬜.🔺.🔬.🔍.⬛
-```
+### Very Small Responses
 
-### Response:
+**Instructions:**
+
+Copy code
+
+`📏⬜🔺🔬🔍⬛` 
+
+**Response:**
+
 ```
 📏 ⬜ Edible cutlery
 📏 🔺 Good for reducing waste, but consider taste.
 📏 🔬 Durability and shelf life?
 📏 🔍 Would I enjoy eating my spoon?
 📏 ⬛ Biodegradable, flavored cutlery with extended shelf life.
+``` 
+
+### Advanced Usage
+
+**Instructions:**
+```
+⬜🗣(10)🔺🔬🔍⬛
 ```
 
+**Response:**
 
-## Advanced Usage
-### Instructions:
-```
-⬜.🗣(10).🔺.🔬.🔍.⬛
-```
-
-### Response:
 ```
 ⬜ AI-driven language learning app
 🗣(Alice): The AI-driven language learning app seems like a great idea to help people learn languages more efficiently.
@@ -117,46 +96,41 @@ Refrence ONLY {
 🔍 I wonder if the app could truly compete with well-established language learning apps, and if users would be willing to try something new.
 ⬛ AI-driven language learning app with advanced personalization, seamless smart device integration, and a focus on data privacy and security.
 ```
+### Combining Ideas
 
-# FAQ / Docs
-## Q: What are the pre-defined modifiers and actions?
+**Instructions:**
+```
+⬜🔺🔺🔺🌉⬛
+``` 
 
-A: Please refer to the Code section in this README for a list of pre-defined modifiers and actions.
+**Response:**
+```
+⬜: I propose a product idea for a modular, space-saving vertical garden system that integrates biodegradable materials and smart technology to facilitate urban farming and promote a sustainable lifestyle.
+🔺: This product idea has the potential to address the growing demand for sustainable and local food production in urban environments. It can also provide a solution for those with limited outdoor space, allowing them to grow their food.
+🔺: Integrating smart technology into the vertical garden system can enable users to optimize their plants' growth conditions and automate processes like watering and monitoring nutrient levels. This can lead to more efficient use of resources and better yields.
+🔺: The use of biodegradable materials in the product design can reduce its environmental footprint and contribute to a circular economy, where materials decompose and return to the soil.
+🌉: By combining the vertical garden system with the biodegradable, self-cleaning water filtration system mentioned earlier, we can create an integrated and sustainable urban farming solution. The purified water from the filtration system can be used to irrigate the plants in the vertical garden, reducing the need for additional water resources and minimizing waste.
+⬛: With this revised idea, we have a modular, space-saving vertical garden system that incorporates biodegradable materials and smart technology for urban farming. By integrating the self-cleaning water filtration system, we create a sustainable and efficient solution for urban dwellers to grow their food and contribute to a more sustainable lifestyle.
+```
 
-## Q: Can I use multiple modifiers in a single instruction set?
+## FAQ / Docs
 
-A: Yes, you can combine multiple modifiers to create unique and engaging responses. Just follow the rules specified in the Code section.
+### Q: What are the pre-defined modifiers and actions?
 
-## Q: How can I contribute to this project?
+A: Please refer to the original README for a list of pre-defined modifiers and actions.
+
+### Q: Can I use multiple modifiers in a single instruction set?
+
+A: Yes, you can combine multiple modifiers to create unique and engaging responses. Just follow the rules specified in the original README.
+
+### Q: How can I contribute to this project?
 
 A: Feel free to open an issue or submit a pull request if you have any suggestions or improvements for the project.
 
+## 🛣️ Roadmap
 
+Open to suggestions from the community. If people enjoy the project, we will sit down and develop more ideas for it.
 
----
-### Roadmap: 
+## 🤝 Community
 
-Open to suggestions from community, if people are really enjoying the project, I will sit down and make up more ideas for it.
-
----
-### Community: Share guidelines for users who want to contribute to the project, and provide 
-
-I am open to taking this in any direct, I created it with the intention of AI researchers using it in their papers to make it more accesible for humans reading the papers, so they could test out things like COT(chain of though) and RCI(Respond Critize Improve) and other future technics that may require much more complicated systems of communication to test in a low difficulty environment.
-
-# Donating to the Project
-
-We welcome and appreciate any support for our project! You can donate to us in the following ways:
-
-## Cryptocurrencies
-
-We accept donations in cryptocurrencies : 
-
-	Metamask : 0xEDC046bCbe9998300452d80D4AB2162052ed4679
-
-## Other Methods
-
-Github Sponsorship! Coming Soon! :)
-
-https://www.buymeacoffee.com/HeadlessNexus
-
-### License : MIT License
+We encourage AI researchers to use GlyphAI in their papers to make them more accessible for humans. This system allows testing of techniques like COT (chain of thought), RCI (Respond Criticize Improve),
