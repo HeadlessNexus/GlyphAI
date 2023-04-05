@@ -1,10 +1,9 @@
 Refrence ONLY {
 	General Modifiers {
-		📏: if present, all responses should be very small
-		📚: Provide more in-depth researched analysis, type alot.
-		🏫: strict_mode be very strict with analysis
-		🏫: strict_mode be very strict with analysis
-		🏆: Grade A++ Ideas only
+		📏: make all responses very small
+		📚: enable more in-depth researched analysis, type alot.
+		🏫: be very strict with analysis
+		🏆: Grade A++ logical Ideas only
 	}
 
 	Discussion Modifiers {
@@ -23,16 +22,14 @@ Refrence ONLY {
 		🧪: the scientific
 	}
 
-
-	ss=send single
-	⬜ : ss product idea
-	🔺: send idea feedback, take note of modifier e.g(🔺(🧪))
-	🔬: local holes logic
-	🔍: send simulated inner monologue
+	⬜ : send product idea
+	🔺: idea feedback, take note of modifier e.g(🔺(🧪))
+	🔬: locate holes logic
+	🔍: simulate inner monologue
 	🔄: Change the topic, shift focus of discussion
-	🌉: Bridge the gap between two seemingly unrelated ideas or topics.
-	🗣: Engage in a simulated multi-human(max 3) debate, give each human a name; do X back and forths(e.g 🗣(10)=(answer,reply)*5)
-	🎭: Roleplay as a human using your idea, find issues/surprising good things
+	🌉: Bridge gap between two unrelated ideas
+	🗣: Engage simulated multi-human(max 3) debate, name each; do X rallies(e.g 🗣(X)=(answer,reply)*X)
+	🎭: Roleplay a human the idea, find issues/surprising things
 	⬛: consider new info and revise idea
 	📦: add last idea to 📦(Y)=arrayY; 
 	🛑: end current idea event string
