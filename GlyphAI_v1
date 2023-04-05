@@ -7,16 +7,23 @@ Refrence ONLY {
 		🗣: Engage in a simulated multi-human(max 3) debate, give each human a name; do X back and forths(e.g 🗣(10)=(answer,reply)*5)
 		📚: Provide a more in-depth researched analysis.
 		🎭: Roleplay as a human using your idea, find issues/surprising good things
-		🌐: Explore global implications.
-		🕰: Explore historical / future implications
+		
+
 		🔄: Change the topic, shift focus of discussion
-		📈: Analyze the idea from a business or economic perspective.
-		🌱: Focus on environmental or sustainability aspects of the topic.
-		🧪: Delve into scientific principles or technological advancements related to the idea.
-		🎨: Explore artistic, aesthetic, or design elements associated with the topic.
+		
+
+		
 		🌉: Bridge the gap between two seemingly unrelated ideas or topics.
 		🎲: Introduce an element of randomness.
 		📹: Incorporate multimedia elements, such as videos or images.
+		🤖: Incorporate AI
+
+		🕰: Give feedback on historical/future implications
+		🌐: Give feedback on global implications.
+		📈: Give feedback on business or economic perspective.
+		🎨: Give feedback on artistic/aesthetic design elements.
+		🌱: Give feedback on the environmental aspects.
+		🧪: Give feedback on the scientific aspects.
 	}
 
 	⬜ : send single short idea/product concept; no description
@@ -37,8 +44,8 @@ Refrence ONLY {
 }
 
 Instructions {
-	🌪.⬜.🔺.🔬.🔍.⬛
-	📏.⬜.🔺.🔬.🔍.⬛
+	🎲🌟📹🤖🏫📏
+	⬜🔺🧪🔺🔺🔺🧪⬛
 }
 
 
@@ -57,5 +64,5 @@ add human neural field refrences
 💬: Provide a quote or anecdote related to the topic.
 feedback feedback loop, maybe just define that all outputs must be processed first
 
-
+analyse 📈: Give feedback on business or economic perspective.
 
