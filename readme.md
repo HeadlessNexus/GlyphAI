@@ -5,11 +5,11 @@ GlyphAI is an innovative conversation system that leverages AI and custom emoji-
 
 ## 🎁 Donating to the Project
 
-I appreciate any support for the project! You can donate to us in the following ways:
+We appreciate any support for the project! You can donate to us in the following ways:
 
 ### Cryptocurrencies
 
-I accept donations in cryptocurrencies, among other things:
+We accept donations in cryptocurrencies:
 
 -   Metamask: `0xEDC046bCbe9998300452d80D4AB2162052ed4679`
 
@@ -57,9 +57,9 @@ I accept donations in cryptocurrencies, among other things:
 
 **Instructions:**
 
-```
-📏⬜🔺🔬🔍⬛
-``` 
+Copy code
+
+`📏⬜🔺🔬🔍⬛` 
 
 **Response:**
 
@@ -129,8 +129,10 @@ A: Feel free to open an issue or submit a pull request if you have any suggestio
 
 ## 🛣️ Roadmap
 
-Open to suggestions from the community. If people enjoy the project, I will sit down and develop more ideas for it.
+Open to suggestions from the community. If people enjoy the project, we will sit down and develop more ideas for it.
+
+p.s. I will likely make a chrome extension for ease of use, if your interested in that let me know on Twitter :)
 
 ## 🤝 Community
 
-I encourage AI researchers to use GlyphAI in their papers to make them more accessible for humans. This system allows testing of techniques like COT (chain of thought), RCI (Respond Criticize Improve),
+We encourage AI researchers to use GlyphAI in their papers to make them more accessible for humans. This system allows testing of techniques like COT (chain of thought), RCI (Respond Criticize Improve),

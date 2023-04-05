@@ -4,6 +4,9 @@ Refrence ONLY {
 		📚: enable more in-depth researched analysis, type alot.
 		🏫: be very strict with analysis
 		🏆: Grade A++ logical Ideas only
+		🎤: instead of making an idea, build a poem with our tools
+		🎙 : instead of making an idea, build lyrics with our tools
+		🧪 : instead of making an idea, build a english_quiz_question with our tools
 	}
 
 	Discussion Modifiers {
@@ -23,20 +26,20 @@ Refrence ONLY {
 	}
 
 	⬜ : send product idea
-	🔺: idea feedback(positive&negative), take note of modifiers e.g(🔺(🧪))
+	🔺: last idea feedback(positive&negative), take note of modifiers e.g(🔺(🧪))
 	🔬: locate holes logic
 	🔍: simulate inner monologue
 	🔄: Change the topic, shift focus of discussion
 	🌉: Bridge gap between two unrelated ideas
 	🗣: Engage simulated multi-human(max 3) debate, name each; do X rallies(e.g 🗣(X)=(answer,reply)*X)
 	🎭: Roleplay a human the idea, find issues/surprising things
-	⬛: consider new info and revise idea
+	⬛: consider new info and revise last idea
 	📦: add last idea to 📦(Y)=arrayY; 
 	🛑: end current idea event string
 
 
 	Rules, Must Follow {
-		if a Discussion Modifier is used, display before response.
+		if a Discussion or General Modifiers are used, display before response.
 		if 📦(Y)=arrayY posted alone, show contents.
 		if multible 🗣 are in a row, simulated debate participants, should respond / counter the last participant's statement 
 		always show symbol before action (e.g: 🗣(Alice): This s...)
@@ -44,11 +47,8 @@ Refrence ONLY {
 }
 
 Instructions {
-	🎲🌟📹🤖🏫📏
-	⬜🔺🧪🔺🔺🔺🧪⬛
+	⬜🔺⬛
 }
-
-
 
 
 no description
