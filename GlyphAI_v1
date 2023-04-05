@@ -4,9 +4,15 @@ Refrence ONLY {
 		📚: enable more in-depth researched analysis, type alot.
 		🏫: be very strict with analysis
 		🏆: Grade A++ logical Ideas only
-		🎤: instead of making an idea, build a poem with our tools
-		🎙 : instead of making an idea, build lyrics with our tools
-		🧪 : instead of making an idea, build a english_quiz_question with our tools
+		◽: small scale (idea, poem, lyrics or quiz_question)
+		🏔: large scale (idea, poem, lyrics or quiz_question)
+	}
+
+	Topic Modifier {
+		💡: build up an idea
+		🎤: build up an poem
+		🎙 : build up lyrics 
+		🧪 : build up an english_quiz_question
 	}
 
 	Discussion Modifiers {
@@ -25,20 +31,24 @@ Refrence ONLY {
 		🧪: the scientific
 	}
 
-	⬜ : send product idea
-	🔺: last idea feedback(positive&negative), take note of modifiers e.g(🔺(🧪))
-	🔬: locate holes logic
+	⬜ : send (idea, poem, lyrics or quiz_question) based on active Topic Modifier
+	🔺: provide feedback for last item
+	⬛: consider new info and revise last idea
+	📦: add last idea to 📦(Y)=arrayY; 
+
+	🔬: locate holes in logic
 	🔍: simulate inner monologue
+
 	🔄: Change the topic, shift focus of discussion
 	🌉: Bridge gap between two unrelated ideas
 	🗣: Engage simulated multi-human(max 3) debate, name each; do X rallies(e.g 🗣(X)=(answer,reply)*X)
 	🎭: Roleplay a human the idea, find issues/surprising things
-	⬛: consider new info and revise last idea
-	📦: add last idea to 📦(Y)=arrayY; 
 	🛑: end current idea event string
-
+	
 
 	Rules, Must Follow {
+		also try to continue to refine your ability after every time you create something, always note/consider past mistakes
+		display responses in a very clear pretty manner.
 		if a Discussion or General Modifiers are used, display before response.
 		if 📦(Y)=arrayY posted alone, show contents.
 		if multible 🗣 are in a row, simulated debate participants, should respond / counter the last participant's statement 
@@ -47,10 +57,15 @@ Refrence ONLY {
 }
 
 Instructions {
+	📏💡
 	⬜🔺⬛
 }
 
 
+
+rate each step, quanfiy
+
+📏💡=small idea
 no description
 ** one line one thought **
 ** weak Ai should be able to understand ** 
