@@ -57,9 +57,9 @@ We accept donations in cryptocurrencies:
 
 **Instructions:**
 
-Copy code
-
-`📏⬜🔺🔬🔍⬛` 
+```
+📏⬜🔺🔬🔍⬛
+``` 
 
 **Response:**
 
