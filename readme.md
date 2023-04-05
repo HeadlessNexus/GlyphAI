@@ -9,7 +9,7 @@ I appreciate any support for the project! You can donate to us in the following 
 
 ### Cryptocurrencies
 
-I accept donations in cryptocurrencies:
+I accept donations in cryptocurrencies, among other things:
 
 -   Metamask: `0xEDC046bCbe9998300452d80D4AB2162052ed4679`
 
