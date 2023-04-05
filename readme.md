@@ -131,7 +131,7 @@ A: Feel free to open an issue or submit a pull request if you have any suggestio
 
 Open to suggestions from the community. If people enjoy the project, we will sit down and develop more ideas for it.
 
-p.s. I will likely make a chrome extension for ease of use, if your interested in that let me know on Twitter :)
+p.s. I will likely make a chrome extension for ease of use in the near future, if your interested in that let me know on Twitter @HeadlessNexus :)
 
 ## 🤝 Community
 
