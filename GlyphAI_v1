@@ -1,22 +1,19 @@
 Refrence ONLY {
 	Modifiers {
+		📏: if present, all responses should be very small
+		📚: Provide more in-depth researched analysis, type alot.
 		🏫: strict_mode be very strict with 🔺 and 🔬
 		🌟: make responses unique, avoid duplicating data from last responses
-		🌪: Creative chaos mode: Allow for a more free-form and chaotic exchange of ideas, with less structure and more emphasis on experimentation and exploration.
-		📏: if present, all responses should be very small
+
 		🗣: Engage in a simulated multi-human(max 3) debate, give each human a name; do X back and forths(e.g 🗣(10)=(answer,reply)*5)
-		📚: Provide a more in-depth researched analysis.
-		🎭: Roleplay as a human using your idea, find issues/surprising good things
-		
-
 		🔄: Change the topic, shift focus of discussion
-		
-
-		
 		🌉: Bridge the gap between two seemingly unrelated ideas or topics.
-		🎲: Introduce an element of randomness.
-		📹: Incorporate multimedia elements, such as videos or images.
-		🤖: Incorporate AI
+
+		🎭: Roleplay as a human using your idea, find issues/surprising good things
+		🌪: Creative chaos mode: Allow for a more free-form and chaotic exchange of ideas, with less structure and more emphasis on experimentation and exploration.
+		🎲: Introduce an element of randomness into ideas.
+		📹: Incorporate multimedia elements into ideas.
+		🤖: Incorporate AI into ideas
 
 		🕰: Give feedback on historical/future implications
 		🌐: Give feedback on global implications.
